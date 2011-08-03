@@ -1,0 +1,81 @@
+@CHARSET "UTF-8";
+H1 {
+	font-size: 277%;
+	text-align: center;
+	vertical-align: bottom;
+	font-family: serif;
+}
+H2 {
+	font-weight: bold;
+}
+.mainbody {
+	background: url(../images/background.jpg) repeat-y 50%;
+        min-height: 400px;
+}
+DIV#hd {
+	background-color: #FFFFFF;
+}
+
+.header {
+        padding-top: 5px;
+        background-color: #dddddd;
+}
+
+.subheading {
+	font-size: 108%;
+	font-weight: bold;
+	line-height: 3em;
+}
+.bodytext p {
+	font-size: 108%;
+	font-style: italic;
+	line-height: 1.5em;
+	padding-top: 0.5em;
+}
+div {
+	border-color: black;
+	border: medium;
+		
+}
+
+.bodytext ul li {
+	text-indent: 4em;
+	list-style:  inside;
+	font-size: 108%;
+	font-style: italic;
+	line-height: 1.5em;	
+}
+.rightimage {
+	padding-bottom: 5px;
+}
+
+.imagecaption {
+	font-style: inherit;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+.miniheading {
+	font-size: 108%;
+	font-weight: bold;
+	line-height: em;
+        text-align:center;
+}
+.footer {
+	background: url(../images/sprite.png) repeat-x 0px -100px;
+}
+.mission {
+    margin-left:1em;; 
+    margin-right:1em;
+    font-style: italic;
+    font-size: 123%;
+    font-family: 'Times New Roman', 'serif';
+    text-indent: 2em;
+    text-align: left;
+    line-height: 200%;
+    height: 400px;
+}
+.banner {
+    overflow: hidden;
+    height: 80px;
+
+}
